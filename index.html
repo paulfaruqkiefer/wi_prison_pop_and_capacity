@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WI Prison Stats | Dark Mode</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body { 
+            font-family: 'Libre Franklin', sans-serif; 
+            margin: 0; 
+            background: #080f1c; /* Even deeper navy */
+            color: #e0e0e0; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .container { 
+            width: 95%;
+            max-width: 1100px; 
+            background: #0c182d; /* WW Deep Blue */
+            padding: 30px; 
+            border-radius: 12px; 
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5); 
+        }
+        
+        h1 { 
+            color: #ffffff; 
+            text-align: center; 
+            font-weight: 700;
+            font-size: 24px;
+            margin-bottom: 10px;
+            letter-spacing: -0.5px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #8892b0;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+
+        /* Chart Lines */
+        .line-pop { 
+            fill: none; 
+            stroke: #ff7f0e; /* WW Orange */
+            stroke-width: 3; 
+            stroke-linecap: round;
+        }
+        
+        .line-cap { 
+            fill: none; 
+            stroke: #5bc0de; /* Brighter Blue for Dark Mode */
+            stroke-width: 2.5; 
+            stroke-dasharray: 8, 5; 
+        }
+        
+        /* Axes Styling */
+        .axis path, .axis line { stroke: #444b5a; }
+        .tick text { font-size: 11px; fill: #8892b0; }
+
+        /* Modern Dark Tooltip */
+        .tooltip { 
+            position: absolute; 
+            background: rgba(255, 255, 255, 0.95); 
+            color: #0c182d;
+            padding: 12px; 
+            pointer-events: none; 
+            opacity: 0; 
+            border-radius: 6px; 
+            font-size: 13px; 
+            box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+            font-family: 'Libre Franklin', sans-serif;
+            border-left: 5px solid #ff7f0e;
+        }
+        
+        .legend { display: flex; justify-content: center; gap: 40px; margin-bottom: 20px; font-size: 14px; }
+        .legend-item { display: flex; align-items: center; gap: 10px; color: #ccd6f6; }
+
+        .grid line {
+            stroke: #1d2a44;
+            stroke-opacity: 0.7;
+            shape-rendering: crispEdges;
+        }
+        .grid path { stroke-width: 0; }
+
+        /* Fix hyperlink color */
+        .subtitle a {
+            color: #ffffff;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+            transition: opacity 0.2s;
+        }
+
+        .subtitle a:hover {
+            opacity: 0.8;
+        }
+
+        /* Credit line styling */
+        .credit {
+            margin-top: 20px;
+            text-align: right;
+            font-size: 12px;
+            color: #8892b0;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Wisconsin Prison Population Tracker</h1>
+    <div class="subtitle">Real-time data synchronization via <a href="https://doc.wi.gov/Pages/DataResearch/DataAndReports.aspx">Wisconsin Department of Corrections</a></div>
+    
+    <div class="legend">
+        <div class="legend-item">
+            <div style="width:25px; height:3px; background:#ff7f0e; border-radius:2px;"></div> Population
+        </div>
+        <div class="legend-item">
+            <div style="width:25px; height:3px; border-top:3px dashed #5bc0de;"></div> Design Capacity
+        </div>
+    </div>
+
+    <div id="chart"></div>
+    <div id="tooltip" class="tooltip"></div>
+    <div class="credit">Paul Kiefer | Wisconsin Watch</div>
+</div>
+
+<script>
+    const margin = {top: 20, right: 30, bottom: 60, left: 70},
+          width = 1000 - margin.left - margin.right,
+          height = 500 - margin.top - margin.bottom;
+
+    const svg = d3.select("#chart")
+        .append("svg")
+        .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    const parseDate = d3.timeParse("%Y-%m-%d");
+
+    d3.csv("wi_prison_stats_master.csv").then(data => {
+        data.forEach(d => {
+            d.date = parseDate(d.formatted_date);
+            d.capacity = +d.capacity;
+            d.population = +d.population;
+        });
+
+        data = data.filter(d => d.date && d.capacity && d.population);
+        data.sort((a,b) => a.date - b.date);
+
+        const x = d3.scaleTime().domain(d3.extent(data, d => d.date)).range([0, width]);
+        const maxY = d3.max(data, d => Math.max(d.capacity, d.population));
+        const y = d3.scaleLinear().domain([10000, maxY + 2000]).range([height, 0]);
+
+        // Add Horizontal Gridlines
+        svg.append("g")			
+            .attr("class", "grid")
+            .call(d3.axisLeft(y).ticks(10).tickSize(-width).tickFormat(""));
+
+        // Axes
+        svg.append("g")
+            .attr("class", "axis")
+            .attr("transform", `translate(0,${height})`)
+            .call(d3.axisBottom(x).ticks(d3.timeYear.every(2)));
+
+        svg.append("g")
+            .attr("class", "axis")
+            .call(d3.axisLeft(y).tickFormat(d3.format(",")).ticks(10));
+
+        // Capacity Line
+        svg.append("path")
+            .datum(data)
+            .attr("class", "line-cap")
+            .attr("d", d3.line().x(d => x(d.date)).y(d => y(d.capacity)));
+
+        // Population Line
+        svg.append("path")
+            .datum(data)
+            .attr("class", "line-pop")
+            .attr("d", d3.line().x(d => x(d.date)).y(d => y(d.population)));
+
+        // Interactive Focus Elements
+        const focus = svg.append("g").style("display", "none");
+        
+        focus.append("line")
+            .attr("stroke", "#444b5a")
+            .attr("stroke-width", 1)
+            .attr("y1", 0)
+            .attr("y2", height);
+
+        focus.append("circle")
+            .attr("class", "dot-pop")
+            .attr("r", 6)
+            .attr("fill", "#ff7f0e")
+            .attr("stroke", "#0c182d")
+            .attr("stroke-width", 2);
+        
+        svg.append("rect")
+            .attr("width", width)
+            .attr("height", height)
+            .style("fill", "none")
+            .style("pointer-events", "all")
+            .on("mouseover", () => { focus.style("display", null); d3.select("#tooltip").style("opacity", 1); })
+            .on("mouseout", () => { focus.style("display", "none"); d3.select("#tooltip").style("opacity", 0); })
+            .on("mousemove", (event) => {
+                const x0 = x.invert(d3.pointer(event)[0]);
+                const i = d3.bisector(d => d.date).left(data, x0, 1);
+                const d = data[i - 1];
+                
+                focus.attr("transform", `translate(${x(d.date)},0)`);
+                focus.select(".dot-pop").attr("cy", y(d.population));
+
+                d3.select("#tooltip")
+                    .html(`<strong>${d3.timeFormat("%B %Y")(d.date)}</strong><br/>
+                           Pop: <span style="color:#e67e22">${d.population.toLocaleString()}</span><br/>
+                           Cap: <span style="color:#3498db">${d.capacity.toLocaleString()}</span><br/>
+                           Gap: <strong>${(d.population - d.capacity).toLocaleString()}</strong>`)
+                    .style("left", (event.pageX + 20) + "px")
+                    .style("top", (event.pageY - 40) + "px");
+            });
+    });
+</script>
+</body>
+</html>
