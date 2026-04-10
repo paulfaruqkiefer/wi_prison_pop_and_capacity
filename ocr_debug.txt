@@ -1,0 +1,2906 @@
+--- FILE: doc_reports/extracted_pdfs/1999/1999.01.01.pdf ---
+TOTAL OFFENDER POPULATION || i, *S ee footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 17,376
+TOTAL INMATE POPULATION (IS) [| |
+TOTAL INMATE POPULATION (DJC) | | 8H
+TOTAL FIELD POPULATION (DJG) | | NA
+Operating Total
+Capacit Population DAI DCC*
+Adult Institutions 10,237 14,097 13,508 589
+WRC 236 236 234 2
+Contract Facilities 3,634 3,634 3,634 0
+Dodge 1,120 1,422 1,422 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.01.08.pdf ---
+TOTAL OFFENDER POPULATION || i, *S ee footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 17,475
+TOTAL INMATE POPULATION (IS) [| |
+TOTAL INMATE POPULATION (DJC) | 8
+TOTAL FIELD POPULATION (DJG) | | 8]
+Operating Total
+Capacit Population DAI DCC*
+Adult Institutions 10,237 14,030 13,521 509
+WRC 236 236 234 2
+Contract Facilities 3,720 3,720 3,720 0
+Dodge 1,120 1,388 1,388 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.01.15.pdf ---
+TOTALOFFENDERPOPULATION [| | *S@ footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 17,498
+TOTALINMATE POPULATION (IS) [| | TS
+TOTAL INMATE POPULATION (DJC) |
+TOTAL FIELDPOPULATION(DJC) [| 88
+Operating Total
+Capacit Population DAI DCC*
+Adult Institutions 10,595 13,954 13,455 499
+WRC 238 238 236 2
+Contract Facilities 3,807 3,807 3,807 0
+Dodge 1,165 1,378 1,378 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.01.22.pdf ---
+TOTAL OFFENDERPOPULATION || | *S¢e footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 499
+TOTALINMATEPOPULATION (IS) || |
+TOTAL INMATE POPULATION (DJG) || 8H
+TOTAL FIELDPOPULATION(DJC) |} 8
+Operating Total
+Capacit Population DAI DCC*
+Adult Institutions 10,595 13,980 13,452 528
+WRC 240 240 238 2
+Contract Facilities 3,809 3,809 3,809 0
+Dodge 1,165 1,361 1,361 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.01.29.pdf ---
+TOTALOFFENDERPOPULATION [| | *S@ footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 17544
+TOTALINMATE POPULATION (IS) [| |B
+TOTAL INMATE POPULATION (DJC) | 88
+TOTAL FIELDPOPULATION(DJC) [| 88H
+Operating Total
+Capacit Population DAI DCC*
+Adult Institutions 10,595 13,937 13,412 525
+WRC 243 243 241 2
+Contract Facilities 3,891 3,891 3,891 0
+Dodge 1,165 1,347 1,347 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.02.05.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 145
+TOTALINMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC) || | FT
+TOTALFIELDPOPULATION(DJC) || |S
+Operating Total
+Capacity ' Population DAI Dcc?
+Adult Institutions 10,595 14,032 13,516 516
+WRC 242 242 240 2
+Contract Facilities 3,889 3,889 3,889 0
+Dodge 1,165 1,346 1,346 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.02.12.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | CT
+TOTALINMATE POPULATION (IS) [| |
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) || | COT
+Operating Total
+Capacity ' Population DAI Dcc?
+Adult Institutions 10,595 13,992 13,468 524
+WRC 240 240 238 2
+Contract Facilities 3,961 3,961 3,961 0
+Dodge 1,165 1,347 1,347 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.02.19.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 17,732
+TOTAL INMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC) || | 8
+TOTALFIELDPOPULATION(DJC) || |
+Operating Total
+Capacity ' Population DAI Dcc?
+Adult Institutions 10,595 13,965 13,448 517
+WRC 240 240 238 2
+Contract Facilities 4,046 4,046 4,046 0
+Dodge 1,165 1,364 1,364 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.02.26.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 1748
+TOTALINMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC) || | 88H
+TOTALFIELDPOPULATION(DJC) || | KT
+Operating Total
+Capacity ' Population _ DAI DCC*
+Adult Institutions 10,595 13,867 13,310 557
+WRC 239 239 237 2
+Contract Facilities 4,201 4,201 4,201 0
+Dodge 1,165 1,325 1,325 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.03.05.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 17814
+TOTALINMATE POPULATION (IS) [| |S
+TOTAL INMATE POPULATION (DJC) || | 8
+TOTALFIELDPOPULATION(DJC) || |B
+Operating Total
+Capacity ' Population DAI Dcc?
+Adult Institutions 10,595 13,934 13,376 558
+WRC 242 242 240 2
+Contract Facilities 4,198 4,198 4,198 0
+Dodge 1,165 1,357 1,357 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.03.12.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | tt
+TOTALINMATE POPULATION (IS) [| |
+TOTAL INMATE POPULATION (DJC) || | tT
+TOTALFIELDPOPULATION(DJC) || |
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 14,028 13,492 536
+WRC 241 241 239 2
+Contract Facilities 4,190 4,190 4,190 0
+Dodge 1,165 1,365 1,365 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.03.19.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 1940
+TOTALINMATE POPULATION (IS) || | TF
+TOTAL INMATE POPULATION (DJC) || | HF
+TOTALFIELDPOPULATION(DJC) | | TTT
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 13,968 13,436 532
+WRC 241 241 239 2
+Contract Facilities 4,265 4,265 4,265 0
+Dodge 1,165 1,397 1,397 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.03.26.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 18,006
+TOTALINMATE POPULATION (IS) || | OF
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) || | 8D
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 13,952 13,417 535
+WRC 244 244 242 2
+Contract Facilities 4,347 4,347 4,347 0
+MAXIMUM SECURITY INST. 3,337 4,329 4,275 54
+Dodge 1,165 1,406 1,406 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.04.02.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18028
+TOTALINMATE POPULATION (IS) || | TF
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) || TH
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 13,974 13,410 564
+WRC 245 245 243 2
+Contract Facilities 4,375 4,375 4,375 0
+MAXIMUM SECURITY INST. 3,337 4,329 4,264 65
+Dodge 1,165 1,388 1,388 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.04.09.pdf ---
+TOTAL OFFENDERPOPULATION || | *Se€e footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 17,987
+TOTALINMATEPOPULATION(IS) [| | 8D
+TOTAL INMATE POPULATION (DJC) || | 900
+TOTAL FIELDPOPULATION(DJC) || | 8
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 13,952 13,379 573
+WRC 239 239 237 2
+Contract Facilities 4,371 4,371 4,371 0
+MAXIMUM SECURITY INST. 3,337 4,271 4,199 72
+Dodge 1,165 1,335 1,335 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.04.16.pdf ---
+TOTAL OFFENDERPOPULATION || sd, *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,014
+TOTALINMATE POPULATION (IS) [| | BT
+TOTAL INMATE POPULATION (DJC) || | FT
+TOTALFIELDPOPULATION(DJC) || TH
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 13,969 13,388 581
+WRC 242 242 240 2
+Contract Facilities 4,386 4,386 4,386 0
+MAXIMUM SECURITY INST. 3,337 4,303 4,225 78
+Dodge 1,165 1,351 1,351 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.04.23.pdf ---
+TOTAL OFFENDERPOPULATION || sd, *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,082
+TOTALINMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,049 13,461 588
+WRC 244 244 242 2
+Contract Facilities 4,379 4,379 4,379 0
+Dodge 1,165 1,392 1,392 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.04.30.pdf ---
+TOTAL OFFENDERPOPULATION || sd, *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 18092
+TOTALINMATE POPULATION (IS) | | 8H
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) || TH
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,076 13,503 573
+WRC 223 223 222 1
+Contract Facilities 4,367 4,367 4,367 0
+MAXIMUM SECURITY INST. 3,337 4,330 4,267 63
+Dodge 1,165 1,363 1,363 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.05.07.pdf ---
+TOTAL OFFENDERPOPULATION || sd, *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 1811
+TOTALINMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) | |B
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,068 13,501 567
+WRC 226 226 225 1
+Contract Facilities 4,385 4,385 4,385 0
+MAXIMUM SECURITY INST. 3,337 4,332 4,269 63
+Dodge 1,165 1,366 1,366 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.05.14.pdf ---
+TOTAL OFFENDERPOPULATION || sd, *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,097
+TOTALINMATE POPULATION (IS) [| |
+TOTAL INMATE POPULATION (DJC) || | 8D
+TOTALFIELDPOPULATION(DJC) || |B
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,005 13,489 516
+WRC 225 225 225 0
+Contract Facilities 4,383 4,383 4,383 0
+MAXIMUM SECURITY INST. 3,337 4,291 4,264 27
+Dodge 1,165 1,360 1,360 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.05.21.pdf ---
+TOTAL OFFENDER POPULATION || =| *See footnote p.2
+TOTAL INMATE POPULATION (DA!) [| | 18196
+TOTALINMATE POPULATION (IS) [| |
+TOTALINMATE POPULATION (DJG) | |
+TOTAL FIELDPOPULATION(DJC) || |
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 14,084 13,588 496
+WRC 223 223 223 0
+Contract Facilities 4,385 4,385 4,385 0
+MAXIMUM SECURITY INST. 3,337 4,346 4,325 21
+Dodge 1,165 1,410 1,410 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.05.28.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,198
+TOTALINMATE POPULATION (IS) [| |
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) || |
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 14,092 13,576 516
+WRC 226 226 226 0
+Contract Facilities 4,396 4,396 4,396 0
+MAXIMUM SECURITY INST. 3,337 4,311 4,287 24
+Dodge 1,165 1,398 1,398 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.06.04 Revised.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,2217
+TOTAL INMATE POPULATION (IS) || | 5
+TOTAL INMATE POPULATION (DJC)|| | HT
+TOTAL FIELD POPULATION (DJC) |} | 8
+Operating Total
+Capacity! Population _ DAI DCC?
+Adult Institutions 10,595 14,090 13,594 496
+WRC 227 227 227 0
+Contract Facilities 4,400 4,400 4,400 0
+MAXIMUM SECURITY INST. 3,337 4,341 4,317 24
+Dodge 1,165 1,393 1,393 0
+(Reception) 904 1,027 1,027 0
+(Institution) 261 366 366 0
+V\AlAaArinitin felela) 4 AON9N7 4 AON9N7 f\
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.06.04.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) | | 18,221
+TOTALINMATE POPULATION (IS) || | QD
+TOTAL INMATE POPULATION (DJC) || | FT
+TOTALFIELDPOPULATION(DJC) || |B
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 14,090 13,594 496
+WRC 227 227 227 0
+Contract Facilities 4,400 4,400 4,400 0
+MAXIMUM SECURITY INST. 3,337 4,341 4,317 24
+Dodge 1,165 1,393 1,393 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.06.11.pdf ---
+TOTAL OFFENDER POPULATION || =| *See footnote p.2
+TOTAL INMATE POPULATION (DA!) | | 18,327
+TOTALINMATE POPULATION (IS) [| | BT
+TOTAL INMATE POPULATION (DJG) | |
+TOTAL FIELDPOPULATION(DJC) [| | AT
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 14,163 13,701 462
+WRC 226 226 226 0
+Contract Facilities 4,400 4,400 4,400 0
+MAXIMUM SECURITY INST. 3,337 4,414 4,390 24
+Dodge 1,165 1,431 1,431 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.06.18.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DA) || | 18,412
+[TOTAL INMATE POPULATION (IS) || | 8
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,246 13,783 463
+WRC 221 221 221 0
+Contract Facilities 4,408 4,408 4,408 0
+MAXIMUM SECURITY INST. 3,337 4,447 4,417 30
+Dodge 1,165 1,458 1,458 0
+(Reception) 904 1,093 1,093 0
+(Institution) 261 365 365 0
+\Alaiiniin QQ9 4992 4992 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.06.25.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 18,500
+[TOTAL INMATE POPULATION (IS) || | 8
+[TOTAL INMATE POPULATION (DJC)|| | 8H
+[TOTAL FIELDPOPULATION (DJC) || | 8
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,317 13,855 462
+WRC 222 222 222 0
+Contract Facilities 4,423 4,423 4,423 0
+MAXIMUM SECURITY INST. 3,337 4,443 4,421 22
+Dodge 1,165 1,449 1,449 0
+(Reception) 904 1,080 1,080 0
+(Institution) 261 369 369 0
+\Alaiiniin QQ9 49414 49414 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.07.02.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DA) || | 18,515
+[TOTAL INMATE POPULATION (IS) || | 8
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | HH
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,307 13,826 481
+WRC 227 227 227 0
+Contract Facilities 4,462 4,462 4,462 0
+MAXIMUM SECURITY INST. 3,337 4,452 4,428 24
+Dodge 1,165 1,431 1,431 0
+(Reception) 904 1,071 1,071 0
+(Institution) 261 360 360 0
+\Alaiiniin QQ9 4 9O9OR 4 9O9OR fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.07.09.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,561
+TOTAL INMATE POPULATION (IS) || | BT
+TOTAL INMATE POPULATION (DJC)|| |
+TOTAL FIELD POPULATION (DJC) |} | 8
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,368 13,886 482
+WRC 228 228 228 0
+Contract Facilities 4,447 4,447 4,447 0
+MAXIMUM SECURITY INST. 3,337 4,474 4,454 20
+Dodge 1,165 1,438 1,438 0
+(Reception) 904 1,070 1,070 0
+(Institution) 261 368 368 0
+\Alaiiniin QQ9 4 99OQ 4 99OQ fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.07.16.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,648
+TOTAL INMATE POPULATION (IS) || | 50
+TOTAL INMATE POPULATION (DJC)|| | 8H
+TOTAL FIELD POPULATION (DJC) || | 8
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,444 13,982 462
+WRC 227 227 227 0
+Contract Facilities 4,439 4,439 4,439 0
+MAXIMUM SECURITY INST. 3,337 4,503 4,481 22
+Dodge 1,165 1,463 1,463 0
+(Reception) 904 1,092 1,092 0
+(Institution) 261 371 371 0
+\Alaiiniin QQ9 41997 41997 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.07.23.pdf ---
+TOTAL OFFENDERPOPULATION || ~——————SCsd,s *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,731
+TOTALINMATE POPULATION (IS) [| |
+TOTAL INMATE POPULATION (DJC) || |
+TOTALFIELDPOPULATION(DJC) || | 8
+Operating Total
+Capacity ' Population DAI bcc?
+Adult Institutions 10,595 14,566 14,092 474
+WRC 224 224 224 0
+Contract Facilities 4,415 4,415 4,415 0
+MAXIMUM SECURITY INST. 3,337 4,515 4,495 20
+Dodge 1,165 1,472 1,472 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.07.30.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 18,784
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,610 14,141 469
+WRC 227 227 227 0
+Contract Facilities 4,416 4,416 4,416 0
+MAXIMUM SECURITY INST. 3,337 4,493 4,469 24
+Dodge 1,165 1,449 1,449 0
+(Reception) 904 1,091 1,091 0
+(Institution) 261 358 358 0
+\Alaiiniin QQ9 4 9O9OR 4 9O9OR fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.08.06.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,855
+TOTAL INMATE POPULATION (IS) || | 93
+TOTAL INMATE POPULATION (DJC)|| | 8
+TOTAL FIELD POPULATION (DJC) || | 8S
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,680 14,215 465
+WRC 228 228 228 0
+Contract Facilities 4,412 4,412 4,412 0
+MAXIMUM SECURITY INST. 3,337 4,512 4,497 15
+Dodge 1,165 1,473 1,473 0
+(Reception) 904 1,119 1,119 0
+(Institution) 261 354 354 0
+\Alaiiniin QQ9 41997 41997 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.08.13.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 18,933
+[TOTAL INMATE POPULATION (IS) || | FT
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,756 14,291 465
+WRC 228 228 228 0
+Contract Facilities 4,414 4,414 4,414 0
+MAXIMUM SECURITY INST. 3,337 4,537 4,519 18
+Dodge 1,165 1,467 1,467 0
+(Reception) 904 1,105 1,105 0
+(Institution) 261 362 362 0
+\Alaiiniin QQ9 41997 41997 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.08.20.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 18,940
+[TOTAL INMATE POPULATION (IS) || | 8S
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | HH
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,738 14,266 472
+WRC 225 225 225 0
+Contract Facilities 4,449 4,449 4,449 0
+MAXIMUM SECURITY INST. 3,337 4,538 4,519 19
+Dodge 1,165 1,450 1,450 0
+(Reception) 904 1,097 1,097 0
+(Institution) 261 353 353 0
+\Alaiiniin QQ9 4990 4990 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.08.27.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 18,984
+TOTAL INMATE POPULATION (IS) || | 84
+TOTAL INMATE POPULATION (DJC)|| |B
+TOTAL FIELD POPULATION (DJC) |} | 8H
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,657 14,291 366
+WRC 228 228 228 0
+Contract Facilities 4,465 4,465 4,465 0
+MAXIMUM SECURITY INST. 3,337 4,546 4,529 17
+Dodge 1,165 1,462 1,462 0
+(Reception) 904 1,105 1,105 0
+(Institution) 261 357 357 0
+\Alaiiniin QQ9 41 99R 41 99R fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.09.03.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,011
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | BOT
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,669 14,332 337
+WRC 227 227 227 0
+Contract Facilities 4,452 4,452 4,452 0
+MAXIMUM SECURITY INST. 3,337 4,559 4,542 17
+Dodge 1,165 1,472 1,472 0
+(Reception) 904 1,103 1,103 0
+(Institution) 261 369 369 0
+\Alaiiniin QQ9 4 99OQ 4 99OQ fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.09.10 Revised.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,048
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | 88ST
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,708 14,367 341
+WRC 227 227 227 0
+Contract Facilities 4,454 4,454 4,454 0
+MAXIMUM SECURITY INST. 3,337 4,561 4,545 16
+Dodge 1,165 1,471 1,471 0
+(Reception) 904 1,111 1,111 0
+(Institution) 261 360 360 0
+\Alaiiniin QQ9 4 99OQ 4 99OQ fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.09.10.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,087
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | 88ST
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,708 14,367 341
+WRC 227 227 227 0
+Contract Facilities 4,443 4,443 4,443 0
+MAXIMUM SECURITY INST. 3,337 4,561 4,545 16
+Dodge 1,165 1,471 1,471 0
+(Reception) 904 1,111 1,111 0
+(Institution) 261 360 360 0
+\Alaiiniin QQ9 4 99OQ 4 99OQ fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.09.17.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,093
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | 88ST
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,780 14,427 353
+WRC 226 226 226 0
+Contract Facilities 4,440 4,440 4,440 0
+MAXIMUM SECURITY INST. 3,337 4,569 4,554 15
+Dodge 1,165 1,482 1,482 0
+(Reception) 904 1,131 1,131 0
+(Institution) 261 351 351 0
+\Alaiiniin QQ9 41997 41997 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.09.24.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI || | 19,173
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,879 14,524 355
+WRC 226 226 226 0
+Contract Facilities 4,423 4,423 4,423 0
+MAXIMUM SECURITY INST. 3,337 4,605 4,592 13
+Dodge 1,165 1,492 1,492 0
+(Reception) 904 1,130 1,130 0
+(Institution) 261 362 362 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.10.01.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,177
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| | 88
+[TOTAL FIELDPOPULATION (DJC) || | HD
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,839 14,472 367
+WRC 225 225 225 0
+Contract Facilities 4,481 4,481 4,480 1
+MAXIMUM SECURITY INST. 3,337 4,584 4,573 11
+Dodge 1,165 1,480 1,480 0
+(Reception) 904 1,114 1,114 0
+(Institution) 261 366 366 0
+\Alaiiniin QQ9 4942 4942 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.10.08.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,280
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | TT
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,835 14,481 354
+WRC 223 223 223 0
+Contract Facilities 4,578 4,578 4,576 2
+MAXIMUM SECURITY INST. 3,337 4,597 4,580 17
+Dodge 1,165 1,499 1,499 0
+(Reception) 904 1,134 1,134 0
+(Institution) 261 365 365 0
+\Alaiiniin QQ9 49A9D 49A9D fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.10.15.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DA) || | 19,331
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| | RT
+[TOTAL FIELDPOPULATION (DJC) || |B
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,827 14,458 369
+WRC 228 228 228 0
+Contract Facilities 4,647 4,647 4,645 2
+MAXIMUM SECURITY INST. 3,337 4,593 4,575 18
+Dodge 1,165 1,493 1,493 0
+(Reception) 904 1,130 1,130 0
+(Institution) 261 363 363 0
+\Alaiiniin QQ9 4 9A 4 9A fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.10.22.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,411
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,873 14,509 364
+WRC 229 229 229 0
+Contract Facilities 4,675 4,675 4,673 2
+MAXIMUM SECURITY INST. 3,337 4,586 4,568 18
+Dodge 1,165 1,494 1,494 0
+(Reception) 904 1,132 1,132 0
+(Institution) 261 362 362 0
+\Alaiiniin QQ9 4 9A 4 9A fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.10.29.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 19,486
+TOTAL INMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC)|| | 88
+TOTAL FIELD POPULATION (DJC) || | 89ST
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,930 14,559 371
+WRC 225 225 225 0
+Contract Facilities 4,704 4,704 4,702 2
+MAXIMUM SECURITY INST. 3,337 4,573 4,553 20
+Dodge 1,165 1,471 1,471 0
+(Reception) 904 1,117 1,117 0
+(Institution) 261 354 354 0
+\Alaiiniin QQ9 4 OAR 4 OAR fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.11.05.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,517
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | 88ST
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 14,952 14,597 355
+WRC 225 225 225 0
+Contract Facilities 4,697 4,697 4,695 2
+MAXIMUM SECURITY INST. 3,337 4,573 4,555 18
+Dodge 1,165 1,467 1,467 0
+(Reception) 904 1,108 1,108 0
+(Institution) 261 359 359 0
+\Alaiiniin QQ9 4 OAR 4 OAR fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.11.12.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,575
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | HT
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,595 15,028 14,661 367
+WRC 223 223 223 0
+Contract Facilities 4,693 4,693 4,691 2
+MAXIMUM SECURITY INST. 3,337 4,576 4,562 14
+Dodge 1,165 1,476 1,476 0
+(Reception) 904 1,114 1,114 0
+(Institution) 261 362 362 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.11.19.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,686
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | 8B
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,617 15,082 14,708 374
+WRC 224 224 224 0
+Contract Facilities 4,706 4,706 4,704 2
+MAXIMUM SECURITY INST. 3,359 4,616 4,600 16
+Dodge 1,165 1,493 1,493 0
+(Reception) 904 1,121 1,121 0
+(Institution) 261 372 372 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.11.25.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 19,663
+TOTAL INMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC)|| |
+TOTAL FIELD POPULATION (DJC) || | FT
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,618 15,095 14,733 362
+WRC 226 226 226 0
+Contract Facilities 4,706 4,706 4,704 2
+MAXIMUM SECURITY INST. 3,360 4,598 4,584 14
+Dodge 1,165 1,490 1,490 0
+(Reception) 904 1,133 1,133 0
+(Institution) 261 357 357 0
+\Alaiiniin QQ9 4 99OQ 4 99OQ fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.11.26.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 19,659
+TOTAL INMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC)|| |
+TOTAL FIELD POPULATION (DJC) || | FT
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,618 15,092 14,729 363
+WRC 226 226 226 0
+Contract Facilities 4,706 4,706 4,704 2
+MAXIMUM SECURITY INST. 3,360 4,598 4,584 14
+Dodge 1,165 1,490 1,490 0
+(Reception) 904 1,133 1,133 0
+(Institution) 261 357 357 0
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.12.03 Revised.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,678
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| | 8H
+[TOTAL FIELD POPULATION (DJC) || | CNA
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,639 15,103 14,748 355
+WRC 225 225 225 0
+Contract Facilities 4,707 4,707 4,705 2
+MAXIMUM SECURITY INST. 3,381 4,622 4,609 13
+Dodge 1,165 1,491 1,491 0
+(Reception) 904 1,121 1,121 0
+(Institution) 261 370 370 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.12.03.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,678
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| | 8H
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,639 15,103 14,748 355
+WRC 225 225 225 0
+Contract Facilities 4,707 4,707 4,705 2
+MAXIMUM SECURITY INST. 3,381 4,622 4,609 13
+Dodge 1,165 1,491 1,491 0
+(Reception) 904 1,121 1,121 0
+(Institution) 261 370 370 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.12.10.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 19,698
+TOTAL INMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC)|| |S
+TOTAL FIELD POPULATION (DJC) || | 8
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,660 15,119 14,760 359
+WRC 227 227 227 0
+Contract Facilities 4,713 4,713 4,711 2
+MAXIMUM SECURITY INST. 3,402 4,596 4,581 15
+Dodge 1,165 1,466 1,466 0
+(Reception) 904 1,102 1,102 0
+(Institution) 261 364 364 0
+\Alaiiniin QQ9 4 9.22 4 9.22 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.12.17.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || =| 19,806
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,716 15,221 14,865 356
+WRC 228 228 228 0
+Contract Facilities 4,715 4,715 4,713 2
+MAXIMUM SECURITY INST. 3,458 4,668 4,654 14
+Dodge 1,165 1,487 1,487 0
+(Reception) 904 1,126 1,126 0
+(Institution) 261 361 361 0
+\Alaiiniin QQ9 4920 4920 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.12.24.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 19,801
+TOTAL INMATE POPULATION (IS) || | 20
+TOTAL INMATE POPULATION (DJC)|| | 8S
+TOTAL FIELD POPULATION (DJC) || | 8H
+Operating Total
+Capacity’ Population _DAI DCC?
+Adult Institutions 10,716 15,253 14,889 364
+WRC 227 227 227 0
+Contract Facilities 4,687 4,687 4,685 2
+MAXIMUM SECURITY INST. 3,458 4,660 4,644 16
+Dodge 1,165 1,467 1,467 0
+(Reception) 904 1,117 1,117 0
+(Institution) 261 350 350 0
+\Alaiiniin QQ9 4 OAR 4 OAR fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/1999/1999.12.31.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,834
+TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| | HT
+[TOTAL FIELDPOPULATION (DJC) || | 8
+15,607 ~— In state population
+Operating Total
+Capacity’ Population? _—DAI DCC?
+Adult Institutions 10,716 14,892 14,537 355
+WRC 225 225 225 0
+Contract Facilities 5,074 5,074 5,072 2
+MAXIMUM SECURITY INST. 3,458 4,632 4,616 16
+Dodge 1,165 1,447 1,447 0
+(Reception) 904 1,091 1,091 0
+(Institution) 261 356 356 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.01.07 Revised.pdf ---
+TOTAL OFFENDER POPULATION || =| *Se@ footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,832
+TOTAL INMATE POPULATION (IS) || | IT
+TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) ||
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,717 14,871 14,528 343
+WRC 226 226 226 0
+Contract Facilities 5,080 5,080 5,078 2
+MAXIMUM SECURITY INST. 3,459 4,621 4,605 16
+Dodge 1,165 1,421 1,421 0
+(Reception) 904 1,069 1,069 0
+(Institution) 261 352 352 0
+\Alaiiniin QQ9 49A0 49A0 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.01.07.pdf ---
+TOTAL OFFENDER POPULATION || =| *Se@ footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,832
+TOTAL INMATE POPULATION (IS) || | IT
+TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) ||
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,717 14,871 14,528 343
+WRC 226 226 226 0
+Contract Facilities 5,080 5,080 5,078 2
+MAXIMUM SECURITY INST. 3,459 4,621 4,605 16
+Dodge 1,165 1,421 1,421 0
+(Reception) 904 1,069 1,069 0
+(Institution) 261 352 352 0
+\Alaiiniin QQ9 49A0 49A0 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.01.14.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 19,859
+TOTAL INMATE POPULATION (IS) || |
+TOTAL INMATE POPULATION (DJC)|| | 8
+TOTAL FIELD POPULATION (DJC) || | 8S
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,736 14,805 14,450 355
+WRC 227 227 227 0
+Contract Facilities 5,183 5,183 5,182 1
+MAXIMUM SECURITY INST. 3,478 4,651 4,636 15
+Dodge 1,165 1,444 1,444 0
+(Reception) 904 1,055 1,055 0
+(Institution) 261 389 389 0
+\Alaiiniin QQ9 4942 4942 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.01.21 Revised.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,910
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || | TT
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,741 14,814 14,461 353
+WRC 224 224 224 0
+Contract Facilities 5,226 5,226 5,225 1
+MAXIMUM SECURITY INST. 3,483 4,603 4,588 15
+Dodge 1,165 1,380 1,380 0
+(Reception) 904 1,028 1,028 0
+(Institution) 261 352 352 0
+\Alaiiniin QQ9 4 9OAA 4 9OAA fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.01.21.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,910
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELD POPULATION (DJC) || | CNA
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,741 14,814 14,461 353
+WRC 224 224 224 0
+Contract Facilities 5,226 5,226 5,225 1
+MAXIMUM SECURITY INST. 3,483 4,603 4,588 15
+Dodge 1,165 1,380 1,380 0
+(Reception) 904 1,028 1,028 0
+(Institution) 261 352 352 0
+\Alaiiniin QQ9 4 9OAA 4 9OAA fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.01.28.pdf ---
+TOTAL OFFENDER POPULATION || | *See footnote p.2 |
+TOTAL INMATE POPULATION (DAI) || | 19,900
+TOTAL INMATE POPULATION (IS) || | 899
+TOTAL INMATE POPULATION (DJC)|| | 88
+TOTAL FIELD POPULATION (DJC) || | Ff
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,740 14,737 14,372 365
+WRC 228 228 228 0
+Contract Facilities 5,301 5,301 5,300 1
+MAXIMUM SECURITY INST. 3,482 4,524 4,510 14
+Dodge 1,165 1,325 1,325 0
+(Reception) 904 968 968 0
+(Institution) 261 357 357 0
+\Alaiiniin QQ9 4924 4924 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.02.04.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,882
+[TOTAL INMATE POPULATION (IS) || | 8B
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,741 14,720 14,363 357
+WRC 210 210 210 0
+Contract Facilities 5,310 5,310 5,309 1
+MAXIMUM SECURITY INST. 3,483 4,489 4,475 14
+Dodge 1,165 1,293 1,293 0
+(Reception) 904 932 932 0
+(Institution) 261 361 361 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.02.11.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,839
+[TOTAL INMATE POPULATION (IS) || | 8H
+[TOTAL INMATE POPULATION (DJC)|| | 8H
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,741 14,685 14,314 371
+WRC 208 208 208 0
+Contract Facilities 5,318 5,318 5,317 1
+MAXIMUM SECURITY INST. 3,483 4,519 4,506 13
+Dodge 1,165 1,299 1,299 0
+(Reception) 904 930 930 0
+(Institution) 261 369 369 0
+\Alaiiniin QQ9 4 OAR 4 OAR fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.02.18.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,882
+[TOTAL INMATE POPULATION (IS) || | 8H
+[TOTAL INMATE POPULATION (DJC)|| | 88
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,750 14,701 14,320 381
+WRC 204 204 204 0
+Contract Facilities 5,359 5,359 5,358 1
+MAXIMUM SECURITY INST. 3,492 4,540 4,513 27
+Dodge 1,165 1,311 1,311 0
+(Reception) 904 953 953 0
+(Institution) 261 358 358 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.02.25.pdf ---
+[TOTAL OFFENDER POPULATION || ==, *See footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) || | 19,898
+[TOTAL INMATE POPULATION (IS) || |
+[TOTAL INMATE POPULATION (DJC)|| |
+[TOTAL FIELDPOPULATION (DJC) || |
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,750 14,595 14,213 382
+WRC 205 205 205 0
+Contract Facilities 5,481 5,481 5,480 1
+MAXIMUM SECURITY INST. 3,492 4,505 4,469 36
+Dodge 1,165 1,281 1,281 0
+(Reception) 904 929 929 0
+(Institution) 261 352 352 0
+\Alaiiniin QQ9 4 9A 4 9A fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.03.03.pdf ---
+[TOTAL OFFENDER POPULATION | si *S@ footnote p.2 |
+[TOTAL INMATE POPULATION (DAI) | | 19,910
+[TOTAL INMATE POPULATION (IS) | | 88D
+[TOTAL INMATE POPULATION (DJC)| |
+[TOTAL FIELDPOPULATION(DJC) |
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,750 14,623 14,245 378
+WRC 203 203 203 0
+Contract Facilities 5,463 5,463 5,462 1
+Dodge 1,165 1,259 1,259 0
+(Reception) 904 894 894 0
+(Institution) 261 365 365 0
+\Alaiiniin QQ9 49OAT7 49OAT7 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.03.10.pdf ---
+[TOTAL OFFENDER POPULATION | —_s|_ *See footnote p.2 |
+[TOTAL INMATE POPULATION (DA) | | 19,802
+[TOTAL INMATE POPULATION (IS) | | 88
+[TOTAL INMATE POPULATION (DJC)| |
+[TOTAL FIELDPOPULATION(DJC) | |
+Operating Total
+Capacity’ Population? DAI DCC?
+Adult Institutions 10,751 14,570 14,180 390
+WRC 204 204 204 0
+Contract Facilities 5,510 5,510 5,508 2
+Dodge 1,165 1,250 1,250 0
+(Reception) 904 893 893 0
+(Institution) 261 357 357 0
+\Alaiiniin QQ9 4 9A 49OA6 fa)
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.03.17.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 19.938
+TOTAL INMATE POPULATION (IS) | 89
+TOTAL FIELD POPULATION(DC) |__——————~dS' id
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,758 14,554 14,168 386
+WRC 205 205 205 0
+Contract Facilities 5,566 5,566 5,565 1
+a
+Dodge 1,165 1,265 1,265 0
+(Reception) 904 885 885 0
+(Institution) 261 380 380 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.03.24.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 19 TL
+TOTAL INMATE POPULATION (IS) || 8
+TOTAL FIELDPOPULATION (DIC) |_—————dSSCSC~—S Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,762 14,628 14,237 391
+WRC 206 206 206 0
+Contract Facilities 5,529 5,529 5,528 1
+a
+Dodge 1,165 1,275 1,275 0
+(Reception) 904 900 900 0
+(Institution) 261 375 375 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.03.31 Revised.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20004
+TOTAL INMATE POPULATION (IS) || 8S
+TOTAL FIELDPOPULATION(DIJC) | |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,762 14,659 14,289 370
+WRC 204 204 204 0
+Contract Facilities 5,512 5,512 5,511 1
+a
+Dodge 1,165 1,315 1315 0
+(Reception) 904 951 951 0
+(Institution) 261 364 364 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.03.31.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20004
+TOTAL INMATE POPULATION (IS) || 8S
+TOTAL FIELDPOPULATION(DJC) | | NA
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,762 14,659 14,289 370
+WRC 204 204 204 0
+Contract Facilities 5,512 5,512 5,511 1
+a
+Dodge 1,165 1,315 1315 0
+(Reception) 904 951 951 0
+(Institution) 261 364 364 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.04.07.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20037
+TOTAL INMATE POPULATION (IS) || 8S
+TOTAL FIELD POPULATION(DJC) | ——————idCOCSC~S Cd
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,763 14,708 14,333 375
+WRC 204 204 204 0
+Contract Facilities 5,503 5,503 5,500 3
+a
+Dodge 1,165 1,324 1,324 0
+(Reception) 904 975 975 0
+(Institution) 261 349 349 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.04.14.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20052
+TOTAL INMATE POPULATION (IS) || 6B
+TOTAL FIELD POPULATION(DJC) |__——————~dSSS i?
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,765 14,769 14,396 373
+WRC 203 203 203 0
+Contract Facilities 5,455 5,455 5,453 2
+a
+Dodge 1,165 1,363 1,363 0
+(Reception) 904 986 986 0
+(Institution) 261 377 377 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.04.21.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 208
+TOTAL INMATE POPULATION (IS) || 85ST
+[TOTAL FIELD POPULATION (DJC) |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,773 14,859 14,492 367
+WRC 201 201 201 0
+Contract Facilities 5 426 5 426 5,425 1
+a
+Dodge 1,165 1,406 1,406 0
+(Reception) 904 1,042 1,042 0
+(Institution) 261 364 364 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.04.28.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,105
+TOTAL INMATE POPULATION (IS) | 85
+TOTAL FIELDPOPULATION (DIC) |_—————dSSCSC~—S Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,794 14,844 14,479 365
+WRC 203 203 203 0
+Contract Facilities 5,424 5,424 5,423 1
+a
+Dodge 1,165 1,393 1,393 0
+(Reception) 904 1,026 1,026 0
+(Institution) 261 367 367 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.05.05.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,100
+TOTAL INMATE POPULATION (IS) || 84
+TOTAL FIELDPOPULATION (DIC) |__—————dY—SS—SO C=”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,808 14,838 14,471 367
+WRC 206 206 205 1
+Contract Facilities 5,425 5,425 5 424 1
+a
+Dodge 1,165 1,367 1,367 0
+(Reception) 904 999 999 0
+(Institution) 261 368 368 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.05.12.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,130
+TOTAL INMATE POPULATION (IS) || 84
+TOTAL FIELDPOPULATION (DIC) |__—————d—SSC—STCC*”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,810 14,940 14,558 382
+WRC 206 206 205 1
+Contract Facilities 5,368 5,368 5,367 1
+a
+Dodge 1,165 1,391 1391 0
+(Reception) 904 1,025 1,025 0
+(Institution) 261 366 366 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.05.19.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,150
+TOTAL INMATE POPULATION (IS) || 8388
+TOTAL FIELDPOPULATION (DIC) |__—————dSSCSCS'B Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,822 15,013 14,627 386
+WRC 206 206 205 1
+Contract Facilities 5,319 5,319 5,318 1
+a
+Dodge 1,165 1,423 1423 0
+(Reception) 904 1,059 1,059 0
+(Institution) 261 364 364 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.05.26.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,197
+TOTAL INMATE POPULATION (IS) | 8388
+TOTAL FIELDPOPULATION (DIC) |_—————d—COCSC~S =i”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,937 14,978 14,592 386
+WRC 208 208 207 1
+Contract Facilities 5,399 5,399 5,398 1
+a
+Dodge 1,165 1,462 1462 0
+(Reception) 904 1,087 1,087 0
+(Institution) 261 375 375 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.06.02 Revised.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION (DAD| | 20,129
+TOTAL INMATE POPULATION(IS) | | 884
+TOTAL FIELD POPULATION(DJC) |__—————idYiCOSCSC~ CS”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,938 14,935 14,537 398
+WRC 206 206 205 1
+Contract Facilities 5,388 5,388 5,387 1
+|
+Dodge 1,165 1,421 1421 0
+(Reception) 904 1,056 1,056 0
+(Institution) 261 365 365 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.06.09.pdf ---
+TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,143
+TOTAL INMATE POPULATION(IS) || 830
+TOTAL FIELDPOPULATION(DIC) |_—————sd—COCSC~SICC*”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,945 14,863 14,451 412
+WRC 207 207 206 1
+Contract Facilities 5 487 5 487 5,486 1
+a
+Dodge 1,165 1,408 1,408 0
+(Reception) 904 1,050 1,050 0
+(Institution) 261 358 358 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.06.16.pdf ---
+TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,190
+TOTAL INMATE POPULATION(IS) | 88
+TOTAL FIELDPOPULATION (DIC) |_——————d—SCSCSC~S I Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,952 14,815 14,409 406
+WRC 208 208 208 0
+Contract Facilities 5,574 5,574 5,573 1
+a
+Dodge 1,165 1,384 1,384 0
+(Reception) 904 1,027 1,027 0
+(Institution) 261 357 357 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.06.23.pdf ---
+TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,185
+TOTAL INMATE POPULATION (IS) || 827
+TOTAL FIELDPOPULATION (DIC) |_—————d—SSC—SS Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,952 14,733 14,337 396
+WRC 206 206 205 1
+Contract Facilities 5,644 5,644 5,643 1
+a
+Dodge 1,165 1,332 1,332 0
+(Reception) 904 977 977 0
+(Institution) 261 355 355 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.06.30.pdf ---
+TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,158
+TOTAL INMATE POPULATION (IS) || 82
+[TOTAL INMATE POPULATION(DJC) | 989
+[TOTAL FIELD POPULATION (DJC) |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 10,953 14,702 14,307 395
+WRC 204 204 203 1
+Contract Facilities 5,649 5,649 5,648 1
+a
+Dodge 1,165 1,282 1,282 0
+(Reception) 904 922 922 0
+(Institution) 261 360 360 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.07.07 Revised.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,151
+ITOTALINMATE POPULATION(IS) | | 8
+[TOTAL FIELDPOPULATION(DJC) | 82
+Oper ating Total
+Capacity! Population’ DAI bcc”
+Adult Institutions 10,958 14,680 14,281 399
+WRC 198 198 197 1
+Contract Facilities 5,674 5,674 5,673 1
+|
+Dodge 1,165 1,306 1,306 0
+(Reception) 904 945 945 0
+(Institution) 261 361 361 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.07.14.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,160
+TOTAL INMATE POPULATION (IS) | | 808
+TOTAL FIELD POPULATION (DIC) |_—————~dY SS
+Oper ating Total
+Capacity! Population’ DAI bcc”
+Adult Institutions 10,960 14,650 14,253 397
+WRC 196 196 195 1
+Contract Facilities 5,713 5,713 5,712 1
+a
+Dodge 1,165 1,318 1,318 0
+(Reception) 904 943 943 0
+(Institution) 261 375 375 0
+WYO OB ew eee oon 1NnNnL 1NnNnL hr
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.07.21.pdf ---
+TOTAL OFFENDER POPULATION | | *See footnote p.2_|
+TOTAL INMATE POPULATION (DAD| | 20,177
+TOTAL INMATE POPULATION(IS) | | 807
+[TOTAL FIELDPOPULATION(DJC) | |
+Oper ating Total
+Capacity’ Population’ DAI DCC”
+Adult Institutions 10,968 14,699 14,270 429
+WRC 196 196 195 1
+Contract Facilities 5,713 5,713 5,712 1
+a
+Dodge 1,165 1,330 1,330 0
+(Reception) 904 957 957 0
+(Institution) 261 373 373 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.07.28.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20.291
+TOTAL INMATE POPULATION (IS) | | 800
+[TOTAL FIELD POPULATION (DJC) | 0S
+Oper ating Total
+Capacity! Population’ DAI bcc”
+Adult Institutions 10,969 14,760 14371 389
+WRC 196 196 195 1
+Contract Facilities 5,726 5,726 5,725 1
+a
+Dodge 1,165 1,356 1,356 0
+(Reception) 904 979 979 0
+(Institution) 261 377 377 0
+WYO OB ew eee oon 1NnNnL 1NnNnL hr
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.08.04.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.294
+TOTAL INMATE POPULATION (IS) | | 296
+[TOTAL FIELD POPULATION (DJC) | 22
+Oper ating Total
+Capacity! Population’ DAI bcc”
+Adult Institutions 10,972 14,751 14,383 368
+WRC 195 195 194 1
+Contract Facilities 5,718 5,718 5,717 1
+a
+Dodge 1,165 1,379 1,379 0
+(Reception) 904 998 998 0
+(Institution) 261 381 381 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.08.11.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20301
+ITOTALINMATE POPULATION(IS) | |
+TOTAL FIELD POPULATION (DIC) [| _———~+i|_—4a——*
+Oper ating Total
+Capacity! Population’ DAI bcc”
+Adult Institutions 10,972 14,748 14,380 368
+WRC 195 195 193 2
+Contract Facilities 5,729 5,729 5,728 1
+|
+Dodge 1,165 1,359 1,359 0
+(Reception) 904 983 983 0
+(Institution) 261 376 376 0
+WYO OB ew eee oon 1NnNnL 1NnNnL hr
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.08.18.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20303
+TOTAL INMATE POPULATION(IS) | | 290
+[TOTAL FIELDPOPULATION(DJC) | | 899
+Oper ating Total
+Capacity! Population’ DAI bcc”
+Adult Institutions 10,973 14,761 14,396 365
+WRC 196 196 194 2
+Contract Facilities 5,714 5,714 5,713 1
+|
+Dodge 1,165 1,342 1,342 0
+(Reception) 904 961 961 0
+(Institution) 261 381 381 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.08.25.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.272
+TOTAL INMATE POPULATION (IS) | | 289
+[TOTAL FIELD POPULATION (DJC) | 898
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,265 14,718 14,368 350
+WRC 196 196 195 1
+Contract Facilities 5,710 5,710 5,709 1
+a
+Dodge 1,165 1,322 1,322 0
+(Reception) 904 932 932 0
+(Institution) 261 390 390 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.09.01.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.264
+TOTAL INMATE POPULATION (IS) || 288
+[TOTAL FIELD POPULATION (DJC) | 890
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,267 14,723 14,364 359
+WRC 198 198 197 1
+Contract Facilities 5,704 5,704 5,703 1
+a
+Dodge 1,165 1,332 1,332 0
+(Reception) 904 965 965 0
+(Institution) 261 367 367 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.09.08.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.205
+TOTAL INMATE POPULATION (IS) | | 286
+TOTAL FIELD POPULATION(DJC) |_—————<d SS?
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,271 14,737 14,340 397
+WRC 198 198 197 1
+Contract Facilities 5,669 5,669 5,668 1
+ee
+Dodge 1,165 1,372 1,372 0
+(Reception) 904 984 984 0
+(Institution) 261 388 388 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.09.15.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION (DAD| | 20,257
+ITOTALINMATE POPULATION(IS) | |
+[TOTAL FIELDPOPULATION(DJC) | 09
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,219 14,802 14,410 392
+WRC 195 195 194 1
+Contract Facilities 5,654 5,654 5,653 1
+|
+Dodge 1,165 1,363 1,363 0
+(Reception) 904 993 993 0
+(Institution) 261 370 370 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.09.22.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.294
+TOTAL INMATE POPULATION (IS) || 8
+TOTAL FIELD POPULATION(DJC) |__—————~dtSSCSO i'r
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,221 14,860 14,466 394
+WRC 193 193 192 1
+Contract Facilities 5,637 5,637 5,636 1
+ee
+Dodge 1,165 1,351 1,351 0
+(Reception) 904 968 968 0
+(Institution) 261 383 383 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.09.29.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20.240
+TOTAL INMATE POPULATION (IS) || 279
+TOTAL FIELD POPULATION(DsC) |_—————~+dtY SO —*r
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,236 14,804 14,419 385
+WRC 194 194 193 1
+Contract Facilities 5,629 5,629 5,628 1
+a
+Dodge 1,165 1,331 1331 0
+(Reception) 904 951 951 0
+(Institution) 261 380 380 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.10.06.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 2021
+TOTAL INMATE POPULATION(IS) | | 277
+[TOTAL FIELDPOPULATION(DJC) | Ea
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,235 14,770 14,391 379
+WRC 197 197 196 1
+Contract Facilities 5,625 5,625 5,624 1
+|
+Dodge 1,165 1,304 1,304 )
+(Reception) 904 946 946 0
+(Institution) 261 358 358 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.10.13.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20,197
+TOTAL INMATE POPULATION(IS) | | 27S
+[TOTAL FIELDPOPULATION(DJC) | tT
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,236 14,786 14,381 405
+WRC 197 197 196 1
+Contract Facilities 5,621 5,621 5,620 1
+|
+Dodge 1,165 1,282 1,282 0
+(Reception) 904 914 914 0
+(Institution) 261 368 368 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.10.20.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,224
+ITOTALINMATE POPULATION(IS) | | 7S
+TOTAL FIELD POPULATION(DJC) |_————S——~dC—COCSC——*
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,239 14,852 14,447 405
+WRC 196 196 195 1
+Contract Facilities 5,583 5,583 5,582 1
+|
+Dodge 1,165 1,287 1,287 0
+(Reception) 904 930 930 0
+(Institution) 261 357 357 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.10.27.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,258
+ITOTALINMATE POPULATION(IS) | |
+TOTAL FIELD POPULATION(DJC) |__—————idYCOCSC~— Ci”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,238 14,929 14,530 399
+WRC 197 197 196 1
+Contract Facilities 5,533 5,533 5,532 1
+|
+Dodge 1,165 1,318 1,318 0
+(Reception) 904 951 951 0
+(Institution) 261 367 367 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.11.03.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.209
+TOTAL INMATE POPULATION (IS) |
+[TOTAL FIELD POPULATION (DJC) |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,240 14,907 14,517 390
+WRC 199 199 198 1
+Contract Facilities 5495 5495 5,494 1
+a
+Dodge 1,165 1,342 1,342 0
+(Reception) 904 985 0 0
+(Institution) 261 357 357 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.11.10.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.219
+TOTAL INMATE POPULATION (IS) || 269
+TOTAL FIELD POPULATION(DJC) | __——————~dtSSS i?
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,243 14,952 14,536 416
+WRC 199 199 198 1
+Contract Facilities 5 A488 5 A488 5,485 3
+ae
+Dodge 1,165 1,342 1,342 0
+(Reception) 904 989 989 0
+(Institution) 261 353 353 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.11.17.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION (DAD| | 20,222
+ITOTALINMATE POPULATION(IS) | | 67
+TOTAL FIELD POPULATION (DIC) |_—SS—Sid S
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,243 15,073 14,636 437
+WRC 200 200 199 1
+Contract Facilities 5,390 5,390 5,387 3
+|
+Dodge 1,165 1,341 1341 0
+(Reception) 904 983 983 0
+(Institution) 261 358 358 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.11.24.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20.237
+TOTAL INMATE POPULATION (IS) || 266
+TOTAL FIELDPOPULATION (DIC) |_—————d—COSCSC~—S Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,244 15,067 14,661 406
+WRC 200 200 199 1
+Contract Facilities 5,379 5,379 5,377 2
+a
+Dodge 1,165 1,335 1,335 0
+(Reception) 904 992 992 0
+(Institution) 261 343 343 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.12.01.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,167
+TOTAL INMATE POPULATION(IS) | | 286
+TOTAL FIELDPOPULATION(DJC) |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,243 15,016 14,603 413
+WRC 200 200 199 1
+Contract Facilities 5,367 5,367 5,365 2
+|
+Dodge 1,165 1,327 1,327 0
+(Reception) 904 974 974 0
+(Institution) 261 353 353 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.12.08.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,173
+ITOTALINMATE POPULATION(IS) | | 65
+TOTAL FIELD POPULATION(DJC) |__————S—S—~d——OCSC~—SS Cd
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,242 14,981 14,561 420
+WRC 202 202 201 1
+Contract Facilities 5413 5413 5411 2
+|
+Dodge 1,165 1,318 1,318 0
+(Reception) 904 967 967 0
+(Institution) 261 351 351 0 |
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.12.15.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20212
+TOTAL INMATE POPULATION(IS) | |
+[TOTAL FIELDPOPULATION(DJC) | | 8S
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,245 15,046 14,639 407
+WRC 200 200 199 1
+Contract Facilities 5,376 5,376 5,374 2
+CO _|
+Dodge 1,165 1,357 1,357 0
+(Reception) 904 987 987 0
+(Institution) 261 370 370 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.12.22.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20189
+TOTAL INMATE POPULATION(IS) |
+TOTAL FIELDPOPULATION (DIC) |__————*dY—S— Ci”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,244 15,112 14,705 407
+WRC 198 198 197 1
+Contract Facilities 5,289 5,289 5,287 2
+a
+Dodge 1,165 1,396 1,396 0
+(Reception) 904 1,028 1,028 0
+(Institution) 261 368 368 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2000/2000.12.29.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,193
+TOTAL INMATE POPULATION (IS) || 256
+TOTAL FIELDPOPULATION (DIC) |_————d—COSCSC~S Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,243 15,088 14,693 395
+WRC 198 198 198 0
+Contract Facilities 5,304 5,304 5,302 2
+|
+Dodge 1,165 1,357 1,357 0
+(Reception) 904 989 989 0
+(Institution) 261 368 368 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.01.05.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,145
+TOTAL INMATE POPULATION (IS) || 254
+TOTAL FIELDPOPULATION (DIC) |___—————d—SSCS~— Cid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,243 15,041 14,653 388
+WRC 193 193 193 0
+Contract Facilities 5,302 5,302 5,299 3
+a
+Dodge 1,165 1,301 1,301 0
+(Reception) 904 941 941 0
+(Institution) 261 360 360 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.01.12.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20,143
+TOTAL INMATE POPULATION(IS) | | 252
+TOTAL FIELD POPULATION (psc) |_SS—Sd
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,997 15,075 14,675 400
+WRC 188 188 188 0
+Contract Facilities 5,283 5,283 5,280 3
+a
+Dodge 1,165 1,329 1,329 0
+(Reception) 904 960 960 0
+(Institution) 261 369 369 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.01.19.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,148
+TOTAL INMATE POPULATION (IS) |S
+TOTAL FIELD POPULATION(DJC) | _—————S—~dCOCSC~—S Cd
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,257 15,142 14,703 439
+WRC 182 182 182 0
+Contract Facilities 5,266 5,266 5,263 3
+|
+Dodge 1,165 1,347 1,347 0
+(Reception) 904 985 985 0
+(Institution) 261 362 362 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.01.26.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,173
+TOTAL INMATE POPULATION(IS) | |
+[TOTAL FIELDPOPULATION(DJC) | 8
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,258 15,174 14,723 451
+WRC 178 178 178 0
+Contract Facilities 5,275 5,275 5,272 3
+|
+Dodge 1,165 1,350 1,350 0
+(Reception) 904 957 957 0
+(Institution) 261 393 393 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.02.02.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,130
+TOTAL INMATE POPULATION (IS) | | 2
+TOTAL FIELD POPULATION(DJC) |————idiCOCSCS A C*
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,257 15,124 14,690 434
+WRC 179 179 179 0
+Contract Facilities 5,266 5,266 5,261 5
+a
+Dodge 1,165 1,353 1,353 0
+(Reception) 904 975 975 0
+(Institution) 261 378 378 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.02.09.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20,147
+TOTAL INMATE POPULATION (IS) || 248
+TOTAL FIELDPOPULATION (DIC) |_——————dSOSCSC~—SS =i”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,258 15,142 14,704 438
+WRC 178 178 178 0
+Contract Facilities 5,268 5,268 5,265 3
+a
+Dodge 1,165 1,288 1,288 0
+(Reception) 904 921 921 0
+(Institution) 261 367 367 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.02.16.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION (DAD| | 20IT
+TOTAL INMATE POPULATION (IS) || 2388
+TOTAL FIELDPOPULATION (DIC) |_————S—sd— OCS C=”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,258 15,147 14,711 436
+WRC 179 179 179 0
+Contract Facilities 5,230 5,230 5,227 3
+|
+Dodge 1,165 1,295 1,295 0
+(Reception) 904 927 927 0
+(Institution) 261 368 368 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.02.23.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION (DAD| | 20,175
+TOTAL INMATE POPULATION (IS) | | 2388
+TOTAL FIELDPOPULATION (DIC) |__————id—SSS—S Ci”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,258 15,309 14,861 448
+WRC 178 178 178 0
+Contract Facilities 5,139 5,139 5,136 3
+a
+Dodge 1,165 1,369 1,369 0
+(Reception) 904 971 971 0
+(Institution) 261 398 398 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.03.02.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,195
+ITOTALINMATE POPULATION(IS) | | 229
+TOTAL FIELD POPULATION(DC) | __——————dt SST Ci?
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,269 15,303 14,866 437
+WRC 172 172 172 0
+Contract Facilities 5,160 5,160 5,157 3
+a
+Dodge 1,165 1,348 1,348 0
+(Reception) 904 967 967 0
+(Institution) 261 381 381 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.03.09.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION (DAD| | 20,187
+TOTAL INMATE POPULATION (IS) | 229
+TOTAL FIELDPOPULATION (DIC) |__—————d—SSS— Ci”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,269 15,293 14,852 44]
+WRC 172 172 172 0
+Contract Facilities 5,166 5,166 5,163 3
+ae
+Dodge 1,165 1,273 1,273 0
+(Reception) 904 921 921 0
+(Institution) 261 352 352 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.03.16.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20,220
+ITOTALINMATE POPULATION(IS) || 2286
+TOTAL FIELD POPULATION (DIC) |_S—SidY
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,270 15,275 14,850 425
+WRC 172 172 172 0
+Contract Facilities 5,199 5,199 5,198 1
+a
+Dodge 1,165 1,333 1,333 0
+(Reception) 904 964 964 0
+(Institution) 261 369 369 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.03.23.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20,251
+ITOTALINMATE POPULATION(IS) | | 225
+TOTAL FIELD POPULATION(DJC) |_——————S—idYiCOSCSC~S CS”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,276 15 264 14,832 432
+WRC 174 174 174 0
+Contract Facilities 5,246 5,246 5,245 1
+a
+Dodge 1,165 1,321 1,321 0
+(Reception) 904 957 957 0
+(Institution) 261 364 364 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.03.30.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20384
+TOTAL INMATE POPULATION(IS) || 220
+TOTAL FIELDPOPULATION (DIC) |_——————d—COSC~C~S Cs”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,276 15,389 14,950 439
+WRC 172 172 172 0
+Contract Facilities 5,221 5,221 5,219 2
+|
+Dodge 1,165 1,368 1,368 0
+(Reception) 904 999 999 0
+(Institution) 261 369 369 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.04.06.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20350
+TOTAL INMATE POPULATION (IS) | 2
+TOTAL FIELDPOPULATION (DIC) |__————d—COSCSC~I C=”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,277 15,400 14,962 438
+WRC 175 175 175 0
+Contract Facilities 5,214 5,214 5,213 1
+a
+Dodge 1,165 1,299 1,299 0
+(Reception) 904 933 933 0
+(Institution) 261 366 366 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.04.13.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 203817
+TOTAL INMATE POPULATION (IS) | 2
+[TOTAL FIELD POPULATION (DJC) |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,282 15,417 14,972 445
+WRC 173 173 173 0
+Contract Facilities 5,174 5,174 5,172 2
+a
+Dodge 1,165 1,274 1,274 0
+(Reception) 904 914 914 0
+(Institution) 261 360 360 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.04.20.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20330
+TOTAL INMATE POPULATION (IS) | 2
+TOTAL FIELD POPULATION(DJC) | _——————S—idCOSCSC~SC—*
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 11,291 15,458 15,011 447
+WRC 172 172 171 1
+Contract Facilities 5,150 5,150 5,148 2
+|
+Dodge 1,165 1,237 1,237 0
+(Reception) 904 859 859 0
+(Institution) 261 378 378 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.04.27.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20.285
+TOTAL INMATE POPULATION (IS) || 208
+TOTAL FIELDPOPULATION (DIC) |__—————d—SSS— Ci”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,040 15,434 14,979 455
+WRC 171 171 171 0
+Contract Facilities 5,137 5,137 5,135 2
+a
+Dodge 1,165 1,195 1,195 0
+(Reception) 904 831 831 0
+(Institution) 261 364 364 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.05.04.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20330
+TOTAL INMATE POPULATION (IS) || 204
+TOTAL FIELDPOPULATION(DIC) | _————S—S—idYCOSCSCST CC”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,034 15,438 14,979 459
+WRC 173 173 173 0
+Contract Facilities 5,180 5,180 5,178 2
+a
+Dodge 1,165 1,172 1,172 0
+(Reception) 904 796 796 0
+(Institution) 261 376 376 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.05.11.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20337
+TOTAL INMATE POPULATION (IS) | 99
+TOTAL FIELDPOPULATION (DIC) |__—————d—SSCSC~SSC*
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,033 15,453 15,004 449
+WRC 174 174 174 0
+Contract Facilities 5,161 5,161 5,159 2
+a
+Dodge 1,165 1,114 1,114 0
+(Reception) 904 741 741 0
+(Institution) 261 373 373 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.05.18.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20350
+TOTAL INMATE POPULATION(IS) | | 97
+TOTAL FIELDPOPULATION (DIC) |__—————sd—SCSCSCSC=*d
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,033 15,451 15,006 445
+WRC 175 175 175 0
+Contract Facilities 5,171 5,171 5,169 2
+a
+Dodge 1,165 1,141 1,141 0
+(Reception) 904 767 767 0
+(Institution) 261 374 374 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.05.25.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20353
+TOTAL INMATE POPULATION (IS) || 9S
+TOTAL FIELDPOPULATION (DIC) |_————S—sd— OCS C=”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,031 15,498 15,052 446
+WRC 173 173 173 0
+Contract Facilities 5,130 5,130 5,128 2
+ec
+Dodge 1,165 1,152 1,152 0
+(Reception) 904 790 790 0
+(Institution) 261 362 362 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.06.01.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20.286
+TOTAL INMATE POPULATION (IS) ||
+TOTAL FIELD POPULATION(DJC) | _—————S—S—~dY—COCSC—STC*d
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,034 15,375 14,942 433
+WRC 171 171 171 0
+Contract Facilities 5,174 5,174 5,173 1
+|
+Dodge 1,165 1,121 1,121 0
+(Reception) 904 755 755 0
+(Institution) 261 366 366 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.06.08.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20302
+TOTAL INMATE POPULATION(IS) | | 9
+[TOTAL FIELDPOPULATION(DJC) |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,030 15,498 15,057 44]
+WRC 176 176 176 0
+Contract Facilities 5,070 5,070 5,069 1
+|
+Dodge 1,165 1,147 1,147 0
+(Reception) 904 777 777 )
+(Institution) 261 370 370 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.06.15.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20330
+ITOTALINMATE POPULATION(IS) | | 190
+TOTAL FIELDPOPULATION (DIC) |__—————id—SS—SO—=*
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,033 15,490 15,065 425
+WRC 191 191 191 0
+Contract Facilities 5,074 5,074 5,074 0
+a
+Dodge 1,165 1,145 1,145 0
+(Reception) 904 760 760 0
+(Institution) 261 385 385 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.06.22.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20319
+ITOTALINMATE POPULATION(IS) | | 190
+TOTAL FIELDPOPULATION (DIC) |__————d—SOSCSC~— Sid
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,030 15,472 15,041 431
+WRC 207 207 207 0
+Contract Facilities 5,071 5,071 5,071 0
+a
+Dodge 1,165 1,115 1,115 0
+(Reception) 904 761 761 0
+(Institution) 261 354 354 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.06.29.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 203307
+TOTAL INMATE POPULATION (IS) || 89
+TOTAL FIELDPOPULATION (DIC) |_———sd—OCSCSBSC—C*”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,035 15,473 15,043 430
+WRC 226 226 226 0
+Contract Facilities 5,038 5,038 5,038 0
+|
+Dodge 1,165 1,136 1,136 0
+(Reception) 904 773 773 0
+(Institution) 261 363 363 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.07.06.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 2033805
+TOTAL INMATE POPULATION (IS) || 8
+TOTAL FIELDPOPULATION (DIC) |__——————id—SSC—ST C=”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,035 15,449 15,044 405
+WRC 226 226 226 0
+Contract Facilities 5,036 5,036 5,035 1
+ec
+Dodge 1,165 1,148 1,148 0
+(Reception) 904 788 788 0
+(Institution) 261 360 360 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.07.13.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+[TOTAL INMATE POPULATION(DAD| | 20.266
+TOTAL INMATE POPULATION(IS) | | 8S
+[TOTAL FIELDPOPULATION(DJC) |
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,026 15,459 15,049 410
+WRC 243 243 243 0
+Contract Facilities 4.975 4.975 4,974 1
+a
+Dodge 1,165 1,212 1,212 0
+(Reception) 904 799 7199 0
+(Institution) 261 413 413 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.07.20.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20322
+TOTAL INMATE POPULATION (IS) || 8S
+TOTAL FIELD POPULATION(DJC) |__—————~dtCOS~——C*
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,013 15,497 15,095 402
+WRC 253 253 253 0
+Contract Facilities 4.975 4.975 4,974 1
+ec
+Dodge 1,165 1,239 1,239 0
+(Reception) 904 836 836 0
+(Institution) 261 403 403 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.07.27.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20322
+TOTAL INMATE POPULATION (IS) || 8G
+TOTAL FIELDPOPULATION (DIC) |__—————d—OSCSC~—SS id
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,007 15,511 15,104 407
+WRC 267 267 267 0
+Contract Facilities 4,952 4,952 4,951 1
+|
+Dodge 1,165 1,235 1,235 0
+(Reception) 904 826 826 0
+(Institution) 261 409 409 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.08.03.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 203851
+TOTAL INMATE POPULATION (IS) || 8B
+[TOTAL FIELD POPULATION (DJC) | aT
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,016 15,553 15,145 408
+WRC 264 264 264 0
+Contract Facilities 4,943 4,943 4,942 1
+|
+Dodge 1,165 1,260 1,260 0
+(Reception) 904 870 870 0
+(Institution) 261 390 390 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.08.10.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 20357
+TOTAL INMATE POPULATION (IS) || 8B
+TOTAL FIELD POPULATION(DJC) | _—————~diCOSCSC~ SCS
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,012 15,572 15,161 411
+WRC 266 266 266 0
+Contract Facilities 4,931 4,931 4,930 1
+a
+Dodge 1,165 1,229 1,229 0
+(Reception) 904 855 855 0
+(Institution) 261 374 374 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.08.17.pdf ---
+[TOTAL OFFENDER POPULATION | _*See footnote p.2_|
+TOTAL INMATE POPULATION(DAD| | 20361
+TOTAL INMATE POPULATION(IS) | | 8
+TOTAL FIELDPOPULATION (DIC) |__—————dYSSCS Ci”
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,014 15,570 15,160 410
+WRC 266 266 266 0
+Contract Facilities 4,936 4,936 4,935 1
+a
+Dodge 1,165 1,223 1,223 0
+(Reception) 904 848 848 0
+(Institution) 261 375 375 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.08.24.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+[TOTAL INMATE POPULATION(DAD| | 203874
+TOTAL INMATE POPULATION (IS) || 8
+TOTAL FIELD POPULATION(DC) |__—————~d—SOSC— CS
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,014 15,616 15,203 413
+WRC 266 266 266 0
+Contract Facilities 4,905 4,905 4,905 0
+ee
+Dodge 1,165 1,212 1,212 0
+(Reception) 904 838 838 0
+(Institution) 261 374 374 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.08.31.pdf ---
+[TOTAL OFFENDER POPULATION | | *See footnote p.2
+TOTAL INMATE POPULATION(DAD| | 20329
+TOTAL INMATE POPULATION (IS) ||
+TOTAL FIELDPOPULATION (DIC) |__——————d—SOSCSC~SBCS—=*d
+Oper ating Total
+Capacity! Population’ DAI DCC”
+Adult Institutions 12,011 15,575 15,164 411
+WRC 266 266 266 0
+Contract Facilities 4,901 4,901 4,899 2
+|
+Dodge 1,165 1,202 1,202 0
+(Reception) 904 819 819 0
+(Institution) 261 383 383 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.09.07.pdf ---
+[TOTAL OFFENDER POPULATION | sd See footnote p.2_
+TOTALINMATEPOPULATION(DAD | T2035
+TOTALINMATEPOPULATION (IS) | |
+TOTALINMATE POPULATION (DIC) | EH
+[TOTAL FIELD POPULATION (DIC) | OE
+Operating Total
+Capacity’ Population” DAI DCC”
+Adult Institutions 12,008 15,602 15,179 423
+WRC 268 268 268 0
+Contract Facilities 4,910 4,910 4,907 3
+a
+Dodge 1,165 1,214 1,214 0
+(Reception) 904 837 837 0
+(Institution) 261 377 377 0
+Waupun 882 1,225 1,225 0
+Green Bay 749 1.006 1.006 (@)
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.09.14.pdf ---
+TOTAL OFFENDER POPULATION | | *See footnote p.2 _|
+TTOTALINMATEPOPULATION@AD | 20,351
+TTOTALINMATE POPULATIONS) | |
+TTOTALINMATEPOPULATION(DJC) | 8B
+TOTAL FIELD POPULATION (DIC) | 0
+Operating Total
+Capacity’ Population” DAI DCC”
+Adult Institutions 12,007 15,569 15,144 425
+WRC 280 280 280 0
+Contract Facilities 4,931 4,931 4,927 4
+|
+Dodge 1,165 1,273 1,273 0
+(Reception) 904 895 895 0
+(Institution) 261 378 378 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 995 995 (@)
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.09.21 Corrected.pdf ---
+[TOTAL OFFENDER POPULATION | sd See footnote p.2_
+TOTALINMATEPOPULATION(DAD | dL 20399
+TOTALINMATEPOPULATION (IS) | EG
+TOTALINMATEPOPULATION (DIC) | ET
+[TOTAL FIELD POPULATION (DIC) | iE
+Operating Total
+Capacity’ Population” DAI DCC”
+Adult Institutions 12,011 15,667 15,237 430
+WRC 296 296 296 0
+Contract Facilities 4,870 4,870 4,866 4
+a
+Dodge 1,165 1,389 1,389 0
+(Reception) 904 1,021 1,021 0
+(Institution) 261 368 368 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 1.006 1.006 (@)
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.09.21.pdf ---
+[TOTAL OFFENDER POPULATION | sd See footnote p.2_
+TOTALINMATEPOPULATION(DAD | dL 20399
+TOTALINMATEPOPULATION (IS) | EG
+TOTALINMATEPOPULATION (DIC) | ET
+[TOTAL FIELD POPULATION (DIC) | iE
+Operating Total
+Capacity’ Population” DAI DCC”
+Adult Institutions 12,011 15,667 15,237 430
+WRC 296 296 296 0
+Contract Facilities 4,870 4,870 4,866 4
+a
+Dodge 1,165 1,389 1,389 0
+(Reception) 904 1,021 1,021 0
+(Institution) 261 368 368 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 1.006 1.006 (@)
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.09.28.pdf ---
+[TOTAL OFFENDER POPULATION | sd See footnote p.2_
+TOTALINMATEPOPULATION(DAD | dL 204206
+TOTALINMATEPOPULATION (IS) | EG
+TOTALINMATE POPULATION (DIC) | 8H
+[TOTAL FIELD POPULATION (DIC) |
+Operating Total
+Capacity’ Population” DAI DCC”
+Adult Institutions 12,007 15,681 15,270 All
+WRC 300 300 300 0
+Contract Facilities 4,860 4,860 4,856 4
+a
+Dodge 1,165 1,395 1,395 0
+(Reception) 904 1,017 1,017 0
+(Institution) 261 378 378 0
+Waupun 882 1,211 1,211 0
+Green Bay 749 1.012 1.012 (@)
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.10.05.pdf ---
+TOTALINMATEPOPULATION(DAD | 20477
+TOTALINMATE POPULATION (DIC) | 8
+[TOTAL FIELD POPULATION (DIC) |
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Secure Detention 13,184 15,732 15,328 404
+WRC 300 300 300 0
+Contract Facilities 4,853 4,853 4,849 4
+|
+Dodge 1,165 1,377 1,377 0
+(Reception) 904 1,011 1,011 0
+(Institution) 261 366 366 0
+Waupun 882 1,221 1,221 0
+Green Bay 749 1.010 1.010 O
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.10.12.pdf ---
+TOTALINMATEPOPULATION(@DAD | 0
+TOTALINMATE POPULATION DIC) |
+TOTAL FIELD POPULATION (DIC) [SSCS
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Secure Detention 13,181 15,777 15,341 436
+WRC 306 306 306 0
+Contract Facilities 4,818 4,818 4,814 4
+|
+Dodge 1,165 1,335 1,335 0
+(Reception) 904 948 948 0
+(Institution) 261 387 387 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 1.011 1.011 O
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.10.19.pdf ---
+ITOTALINMATEPOPULATION(DAD | iL SSB
+TOTAL INMATE POPULATION (DIC) |S
+TOTAL FIELD POPULATION (DIC) [SSS Sa
+Operating Total
+Capacity! Population” DAI DCC
+Institutions, Centers, MSDF AODA & Secure Detention 13,175 15,871 15,456 415
+WRC 310 310 310 0
+Contract Facilities 45796 45796 4,792 4
+|
+Dodge 1,165 1,380 1,380 0
+(Reception) 904 1,003 1,003 0
+(Institution) 261 377 377 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 1.021 1.021 O
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.10.26.pdf ---
+(TOTAL FIELD POPULATION DJG) ___———SSSSS—~d Od
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,294 15,826 15,561 265
+WRC 315 315 315 0
+Contract Facilities 4,719 4,719 4,715 4
+ee
+Dodge 1,165 1,442 1,442 0
+(Reception) 904 1,058 1,058 0
+(Institution) 261 384 384 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 1,030 1,029 1
+Columbia 541 796 790 6
+SMCI 313 313 313 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.11.02.pdf ---
+(TOTAL FIELD POPULATION DJG) __——SSS—S—S—~d Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,293 15,894 15,649 245
+WRC 314 314 314 0
+Contract Facilities 4,660 4,660 4,657 3
+ee
+Dodge 1,165 1,469 1,469 0)
+(Reception) 904 1,078 1,078 0
+(Institution) 261 391 391 0
+Waupun 882 1,226 1,226 0)
+Green Bay 749 1,028 1,028 0)
+Columbia 541 808 802 6
+SMCI 312 312 312 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.11.09.pdf ---
+(TOTAL FIELD POPULATION DJG) __———SSS—S—S—~d Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,291 15,963 15,733 230
+WRC 315 315 315 0
+Contract Facilities 4,593 4,593 4,590 3
+es
+Dodge 1,165 1,463 1,463 0
+(Reception) 904 1,055 1,055 0
+(Institution) 261 408 408 0
+Waupun 882 1,227 1,227 0
+Green Bay 749 1,016 1,016 0
+Columbia 541 812 806 6
+SMCI 310 310 310 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.11.16.pdf ---
+(TOTAL FIELD POPULATION DJG) __—SSSS—S—~d Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,286 16,005 15,806 199
+WRC 315 315 315 0
+Contract Facilities 4,537 4,537 4,534 3
+ee
+Dodge 1,165 1,480 1,480 0
+(Reception) 904 1,087 1,087 0
+(Institution) 261 393 393 0
+Waupun 882 1,227 1,227 0)
+Green Bay 749 1,028 1,028 0)
+Columbia 541 808 802 6
+SMCI 305 305 305 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.11.23.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Cd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,280 16,018 15,851 167
+WRC 319 319 319 0
+Contract Facilities 4,470 4,470 4,467 3
+ee
+Dodge 1,165 1,505 1,505 0
+(Reception) 904 1,123 1,123 0
+(Institution) 261 382 382 0)
+Waupun 882 1,228 1,228 0)
+Green Bay 749 1,031 1,031 0)
+Columbia 541 816 810 6
+SMCI 299 299 299 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.11.30.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Td
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,272 15,991 15,836 155
+WRC 320 320 320 0
+Contract Facilities 4,456 4,456 4,453 3
+Ce
+Dodge 1,165 1,473 1,473 0
+(Reception) 904 1,104 1,104 0
+(Institution) 261 369 369 0
+Waupun 882 1,224 1,224 0)
+Green Bay 749 1,028 1,028 0)
+Columbia 541 817 811 6
+SMCI 291 291 291 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.12.07.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,271 16,082 15,927 155
+WRC 320 320 320 0
+Contract Facilities 4,396 4,396 4,393 3
+Pe
+Dodge 1,165 1,418 1,418 0
+(Reception) 904 1,037 1,037 0
+(Institution) 261 381 381 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 1,034 1,034 0
+Columbia 541 819 813 6
+SMCI 290 290 290 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.12.14.pdf ---
+TOTAL FIELD POPULATION DJG) SSCS id
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,270 16,188 16,037 151
+WRC 322 322 322 0
+Contract Facilities 4,302 4,302 4,299 3
+ee
+Dodge 1,165 1,410 1,410 0
+(Reception) 904 1,018 1,018 0
+(Institution) 261 392 392 0
+Waupun 882 1,227 1,227 0
+Green Bay 749 1,033 1,033 0
+Columbia 541 828 822 6
+SMCI 289 289 289 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.12.21.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Sid
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,271 16,265 16,111 154
+WRC 322 322 322 0
+Contract Facilities 4,217 4,217 4,214 3
+ee
+Dodge 1,165 1,416 1,416 0
+(Reception) 904 1,033 1,033 0
+(Institution) 261 383 383 0)
+Waupun 882 1,226 1,226 0)
+Green Bay 749 1,041 1,041 0)
+Columbia 541 819 813 6
+SMCI 290 290 290 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2001/2001.12.28.pdf ---
+(TOTAL FIELD POPULATION DJG) __——SSS—~d Td
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,265 16,274 16,120 154
+WRC 322 322 322 0
+Contract Facilities 4,217 4,217 4,214 3
+ee
+Dodge 1,165 1,436 1,436 0
+(Reception) 904 1,062 1,062 0
+(Institution) 261 374 374 0
+Waupun 882 1,223 1,223 0
+Green Bay 749 1,047 1,047 0
+Columbia 541 814 808 6
+SMCI 284 284 284 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.01.04.pdf ---
+(TOTAL FIELD POPULATION DJG) __——SSSSS—S—~d Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,260 16,185 16,039 146
+WRC 322 322 322 0
+Contract Facilities 4,222 4,222 4,219 3
+ee
+Dodge 1,165 1,424 1,424 0
+(Reception) 904 1,049 1,049 0
+(Institution) 261 375 375 0)
+Waupun 882 1,221 1,221 0)
+Green Bay 749 1,044 1,044 0)
+Columbia 541 817 811 6
+SMCI 279 279 279 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.01.11.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Od
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,269 16,160 16,020 140
+WRC 319 319 319 0
+Contract Facilities 4,167 4,167 4,164 3
+ee
+Dodge 1,165 1,412 1,412 0
+(Reception) 904 1,017 1,017 0
+(Institution) 261 395 395 0
+Waupun 882 1,224 1,224 0)
+Green Bay 749 1,049 1,049 0
+Columbia 541 818 812 6
+SMCI 288 288 288 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.01.18.pdf ---
+(TOTAL FIELD POPULATION DJG) __——SSSS—~d Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,264 16,259 16,132 127
+WRC 319 319 319 0
+Contract Facilities 4,098 4,098 4,095 3
+es
+Dodge 1,165 1,399 1,399 0
+(Reception) 904 1,011 1,011 0
+(Institution) 261 388 388 0
+Waupun 882 1,220 1,220 0
+Green Bay 749 1,060 1,060 0
+Columbia 541 829 823 6
+SMCI 283 283 283 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.01.25.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,266 16,297 16,169 128
+WRC 321 321 321 0
+Contract Facilities 4,048 4,048 4,045 3
+ee
+Dodge 1,165 1,419 1,419 0)
+(Reception) 904 1,037 1,037 0
+(Institution) 261 382 382 0)
+Waupun 882 1,224 1,224 0)
+Green Bay 749 1,056 1,056 0
+Columbia 541 830 824 6
+SMCI 285 285 285 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.02.01.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Od
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,288 16,304 16,177 127
+WRC 320 320 320 0
+Contract Facilities 4,045 4,045 4,042 3
+ee
+Dodge 1,165 1,437 1,437 0
+(Reception) 904 1,053 1,053 0
+(Institution) 261 384 384 0)
+Waupun 882 1,225 1,225 0)
+Green Bay 749 1,024 1,024 0)
+Columbia 541 825 819 6
+SMCI 307 307 307 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.02.08.pdf ---
+(TOTAL FIELD POPULATION DJG)|_ SSCS Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,481 16,366 16,248 118
+WRC 319 319 319 0
+Contract Facilities 4,018 4,018 4,015 3
+ee
+Dodge 1,165 1,508 1,508 0
+(Reception) 904 1,122 1,122 0
+(Institution) 261 386 386 0
+Waupun 882 1,224 1,224 0)
+Green Bay 749 1,016 1,016 0
+Columbia 541 819 813 6
+SMCI 311 311 311 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.02.15.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,493 16,416 16,301 115
+WRC 319 319 319 0
+Contract Facilities 3,979 3,979 3,976 3
+ee
+Dodge 1,165 1,493 1,493 0)
+(Reception) 904 1,109 1,109 0
+(Institution) 261 384 384 0)
+Waupun 882 1,228 1,228 0)
+Green Bay 749 1,010 1,010 0)
+Columbia 541 834 828 6
+SMCI 323 323 323 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.02.22.pdf ---
+(TOTAL FIELD POPULATION DJG) __——SSSS—~d Od
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA & Transportation Units 12,501 16,453 16,335 118
+WRC 324 324 324 0
+Contract Facilities 3,969 3,969 3,966 3
+Ce
+Dodge 1,165 1,505 1,505 0
+(Reception) 904 1,129 1,129 0
+(Institution) 261 376 376 0
+Waupun 882 1,224 1,224 0)
+Green Bay 749 1,011 1,011 0)
+Columbia 541 836 830 6
+SMCI 331 331 331 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.03.01.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS OS
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA, Inmates & Trans. Units 12,754 16,693 16,569 124
+WRC 321 321 321 0
+Contract Facilities 3,970 3,970 3,967 3
+ee
+Dodge 1,165 1,490 1,490 0)
+(Reception) 904 1,107 1,107 0
+(Institution) 261 383 383 0)
+Waupun 882 1,227 1,227 0)
+Green Bay 749 1,020 1,020 0)
+Columbia 541 826 820 6
+SMCI 324 324 324 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.03.08.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA, Inmates & Trans. Units 12,754 16,737 16,615 122
+WRC 324 324 323 1
+Contract Facilities 3,966 3,966 3,963 3
+ee
+Dodge 1,165 1,481 1,481 0
+(Reception) 904 1,096 1,096 0
+(Institution) 261 385 385 0
+Waupun 882 1,226 1,226 0
+Green Bay 749 1,031 1,031 0
+Columbia 541 825 819 6
+SMCI 324 324 324 0
+
+
+--- FILE: doc_reports/extracted_pdfs/2002/2002.03.15.pdf ---
+(TOTAL FIELD POPULATION DJG) SSCS Sd
+Operating Total
+Capacity’ Population” DAI DCC
+Institutions, Centers, MSDF AODA, Inmates & Trans. Units 12,752 16,765 16,646 119
+WRC 326 326 324 2
+Contract Facilities 3,961 3,961 3,958 3
+Ce
+Dodge 1,165 1,495 1,495 0
+(Reception) 904 1,109 1,109 0
+(Institution) 261 386 386 0
+Waupun 882 1,228 1,228 0)
+Green Bay 749 1,042 1,042 0)
+Columbia 541 829 823 6
+SMCI 322 322 322 0
+
+
