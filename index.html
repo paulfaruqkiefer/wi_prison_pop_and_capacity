@@ -124,7 +124,7 @@
 
         const x = d3.scaleTime().domain(d3.extent(data, d => d.date)).range([0, width]);
         const maxY = d3.max(data, d => Math.max(d.capacity, d.population));
-        const y = d3.scaleLinear().domain([10000, maxY + 3000]).range([height, 0]);
+        const y = d3.scaleLinear().domain([0, maxY + 3000]).range([height, 0]);
 
         svg.append("g").attr("class", "grid").call(d3.axisLeft(y).ticks(10).tickSize(-width).tickFormat(""));
         svg.append("g").attr("class", "axis").attr("transform", `translate(0,${height})`).call(d3.axisBottom(x).ticks(d3.timeYear.every(2)));
